@@ -1,0 +1,37 @@
+<<<<<<< HEAD
+# maven ignore
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+logs/
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+.checkstyle
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
+/education-service/
+/education-teacher/
+=======
+target/
+>>>>>>> branch 'master' of https://git.oschina.net/sxl920624/educat.git
